@@ -1,0 +1,11 @@
+{
+  "name": "my-shop",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "npm --prefix my-shop run serve",
+    "build": "npm --prefix my-shop run build",
+    "lint": "npm --prefix my-shop run lint",
+    "deploy": "npm --prefix my-shop run deploy"
+  }
+}
